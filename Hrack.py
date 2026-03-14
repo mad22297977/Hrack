@@ -40,7 +40,7 @@ print("""\033[1;35m
       -_-                                       _
      _-                \033[1;37mv0.1.2\033[1;35m                    _
 
-\n\033[1;37mTHIS TOOL WAS PROGRAMMED BY TLER AL-SHAHRANI.\nPERSONAL WEBSITE : \033[1;34mhttps://tlersa.github.io/tleralshahrani/Index.html""")
+\n\033[1;37mTHIS TOOL WAS PROGRAMMED BY WALEED.\nPERSONAL WEBSITE : \033[1;34mhttps://tlersa.github.io/tleralshahrani/Index.html""")
 print("\033[1;37m- "*35)
 
 def main_menu():
